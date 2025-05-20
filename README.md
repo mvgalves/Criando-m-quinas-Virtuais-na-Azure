@@ -73,4 +73,4 @@ Este repositório contém anotações, resumos e dicas práticas sobre o process
 
 ## 🚀 Autor
 
-Desenvolvido por [Marcus Vincius]
+Desenvolvido por Marcus Vincius
